@@ -81,7 +81,6 @@ random seeds.
 - `outputs/large_scale_stress_summary.csv`: large-scale stress-test timing.
 - `outputs/direct_max_sanity_summary.csv`: direct max-feature sanity check.
 - `outputs/real_standardized_summary.csv`: real-data six-method summary.
-- `outputs/table_*.tex`: LaTeX tables used or referenced by the manuscript.
 - `outputs/fig_*.pdf` and `outputs/fig_*.png`: manuscript figures.
 
 ## Reproducibility notes
